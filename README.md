@@ -35,18 +35,7 @@ To get a local copy up and running follow these simple example steps.
   -  Run ``` npm run build ```
   -  Run ``` npm start ```
 
-## Authors
 
-👤 **Anselem Odimegwu**
-
-- GitHub: [github](https://github.com/AnselemOdims)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/anselem-odimegwu-65a679104/)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](https://github.com/AnselemOdims/To-Do/issues).
 
 ## Show your support
 
